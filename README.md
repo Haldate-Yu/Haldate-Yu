@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Haldate-Yu
 - 👀 I’m interested in Anime/Piano
-- 🌱 I’m currently learning cross-modal modules
+- 🌱 I’m currently learning graph neural networks modules
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You may contact me via haldate@whu.edu.cn
 
 <!---
 Haldate-Yu/Haldate-Yu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
