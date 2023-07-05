@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Haldate-Yu
 - 👀 I’m interested in Anime/Piano
-- 🌱 I’m currently learning graph neural networks modules
+- 🌱 I’m currently learning Java SSM
 - 💞️ I’m looking to collaborate on ...
 - 📫 You may contact me via haldate@whu.edu.cn
 
